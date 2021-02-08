@@ -1,0 +1,1 @@
+<h1 style="color:blue">${user.userName} logout success</h1>

@@ -1,6 +1,6 @@
 package com.dgyt.demo.controller;
 
-import com.dgyt.demo.User;
+import com.dgyt.demo.entity.User;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
